@@ -8,11 +8,6 @@ Não existir um modelo para prever o churn de clientes.
 
 Um modelo treinado para identificar possíveis Churn de clientes, ou seja, prever clientes que podem parar de usar o serviço prestado.
 
-
-## :jigsaw: O público-alvo:
-
-...
-
 ## :computer: Modelo Preditivo:
 
 - Grupo 1 - La Place:
