@@ -11,16 +11,16 @@ Um modelo treinado para identificar possíveis Churn de clientes, ou seja, preve
 ## :computer: Modelo Preditivo:
 
 - Grupo 1 - La Place:
-  - Link do repositório: https://github.com/2023M3T7-inteli/grupo1
+  - Link do repositório: https://github.com/InteliProjects/2023M3T7-Inteli-grupo1
 
 - Grupo 2 - Sinapse:
-  - Link do repositório: https://github.com/2023M3T7-inteli/grupo2
+  - Link do repositório: https://github.com/InteliProjects/2023M3T7-Inteli-grupo2
   
 - Grupo 3 - EBA:
-  - Link do repositório: https://github.com/2023M3T7-inteli/grupo3
+  - Link do repositório: https://github.com/InteliProjects/2023M3T7-Inteli-grupo3
   
 - Grupo 4 - ForeSee: 
-  - Link do repositório: https://github.com/2023M3T7-inteli/grupo4
+  - Link do repositório: https://github.com/InteliProjects/2023M3T7-Inteli-grupo4
   
 - Grupo 5 - PrevAI:
-  - Link do repositório: https://github.com/2023M3T7-inteli/grupo5
+  - Link do repositório: https://github.com/InteliProjects/2023M3T7-Inteli-grupo5
